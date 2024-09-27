@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,go,java)](https://skillicons.dev)
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=postgresql,oracleql,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,oracle,mysql,mongodb)](https://skillicons.dev)
 
 ## UI/UX
 
