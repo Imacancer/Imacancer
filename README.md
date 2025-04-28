@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emmanuel a Junior Full Stack Web Developer, I love to Create things in Internet that can Help World a Better Place!
+## Hi there 👋 I'm Emmanuel i hate IT, I hate to Create things in Internet that can Help World a Better Place!
 
 
 
